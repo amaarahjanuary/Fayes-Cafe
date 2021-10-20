@@ -2,11 +2,17 @@ section {
     padding: 40px 0;
 }
 
-.container2 {
+/* .container2 {
      position: relative;
     text-align: center;
      color: rgb(182, 12, 12);
+} */
+
+.contact{
+    display: inline-block;
 }
+
+
 
 .centered {
     position: absolute;
